@@ -161,8 +161,8 @@ body{
 
 .contenedor-galeria{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
+    flex-direction: column;
+    justify-items: center;
     margin-top: 30px;
 }
 
